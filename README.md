@@ -1,1 +1,1 @@
-# AI_TETRIS_PTIT-
+A contest from PTIT
